@@ -1,0 +1,12 @@
+﻿{
+  "id": "spacechase0.ExtendedSkillCaps",
+  "name": "ExtendedSkillCaps",
+  "description": "More places to spend your skill points.",
+  "author": "spacechase0",
+  "version": "1.0.0",
+  "type": "assembly",
+  "assembly": {
+    "dll": "ExtendedSkillCaps.dll",
+    "class": "ExtendedSkillCaps.Mod"
+  }
+}
